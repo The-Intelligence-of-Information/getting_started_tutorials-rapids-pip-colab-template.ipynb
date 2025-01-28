@@ -1,2 +1,2 @@
-# getting_started_tutorials-rapids-pip-colab-template.ipynb
+# RAPIDS cuDF is now already on your Colab instance!
 RAPIDS cuDF 
